@@ -1,7 +1,7 @@
 // Dom - Document Object Model
 // 1. getElenemtById:
-// const headingTanu = document.getElementById('heading');
-// console.log(headingTanu);
+ const headingTanu = document.getElementById('heading');
+ console.log(headingTanu);
 
 // 2. getElementsByTagName:
 // const heading = document.getElementsByTagName('h1');
